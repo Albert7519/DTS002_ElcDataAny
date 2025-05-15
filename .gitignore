@@ -1,0 +1,10 @@
+# 忽略所有 Word 文档
+*.docx
+
+# 忽略 Word 临时文件
+~$*.docx
+
+# 忽略 Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
