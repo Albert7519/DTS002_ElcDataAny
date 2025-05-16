@@ -8,3 +8,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+#忽略DS_Store
+.DS_Store
