@@ -1,0 +1,10 @@
+{
+    "best_mse": 0.007368,
+    "best_r2": -9.998802,
+    "original_mse": 0.053662,
+    "original_r2": -79.107567,
+    "optimized_mape": 2.76,
+    "original_mape": 13.82,
+    "mse_improvement_percent": 86.27,
+    "mape_improvement_percent": 80.03
+}

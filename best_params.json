@@ -1,0 +1,13 @@
+{
+    "n_layers": 4,
+    "n_units_l0": 162,
+    "n_units_l1": 187,
+    "n_units_l2": 115,
+    "n_units_l3": 55,
+    "dropout_rate": 0.24726403007037911,
+    "learning_rate": 0.00895484844273611,
+    "weight_decay": 5.493694747461835e-05,
+    "activation": "LeakyReLU",
+    "optimizer": "RMSprop",
+    "patience": 56
+}
