@@ -16,7 +16,7 @@ This project primarily utilizes the following technologies:
 
 *   **Core Language:** Python
 *   **Machine Learning Model:**
-    *   **Multilayer Perceptron (MLP):** Serves as the main predictive model for analyzing electricity data and making relevant predictions. The model implementation might be based on Scikit-learn or other deep learning frameworks.
+    *   **Multilayer Perceptron (MLP):** Serves as the main predictive model for analyzing electricity data and making relevant predictions.
 *   **Hyperparameter Optimization:**
     *   **Optuna:** Employed to automatically search and optimize the hyperparameters of the MLP model to achieve the best performance.
 
